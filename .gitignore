@@ -1,3 +1,7 @@
+.DS_Store
+*/.DS_Store
+
+
 # Compiled Object files
 *.slo
 *.lo
@@ -28,7 +32,5 @@
 *.out
 *.app
 
-.DS_Store
-*/.DS_Store
 
 
